@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+# Description
+
+A project made for a tutorial which show the basic of the relation between model, Parent, Children, Siblings with Vapor using Fluent
+
 # Basic Template
 
 A basic vapor template for starting a new Vapor web application. If you're using vapor toolbox, you can use: `vapor new --template=basic`
@@ -14,7 +18,3 @@ Join the welcoming community of fellow Vapor developers in [slack](http://vapor.
 ## 🔧 Compatibility
 
 This package has been tested on macOS and Ubuntu.
-=======
-# Veterinary
-A project made for a tutorial which show the basic of the relation between model, Parent, Children, Siblings with Vapor using Fluent
->>>>>>> 583da53ee3dd1b51bf690214f062cf07847a3565
